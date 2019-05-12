@@ -2,7 +2,7 @@
 
 ## Set GCP Project ID
 
-Copy `.env.sample` to `.env` and replace `your-project-id` with yout GCP project ID
+Copy `.env.sample` to `.env` and replace `your-project-id` with your GCP project ID
 
 ```$xslt
 GOOGLE_PROJECT_ID=your-project-id
